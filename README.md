@@ -96,7 +96,7 @@ Exceeds accessibility standards without sacrificing sophistication
 ### IntelliJ IDEA / WebStorm / PyCharm / Android Studio
 
 1. Download **Syntello v1.icls**
-2. File → Manage IDE Settings → Import Settings
+2. File → Settings → Color Scheme → Cogwheel icon next to the drop-down menu → Import Scheme → IntelliJ IDEA color scheme (.icls)
 3. Select the downloaded file
 4. Restart IDE and enjoy
 
