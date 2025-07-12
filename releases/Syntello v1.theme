@@ -40,41 +40,12 @@
                 "text-color": "#1f2124"
             }
         },
-        "Doxygen": {
-            "Custom Tags": {
-                "selected-text-color": "#707070",
-                "text-color": "#707070"
-            },
-            "Entities": {
-                "selected-text-color": "#3d3d3d",
-                "text-color": "#3d3d3d"
-            },
-            "HTML Tag": {
-                "selected-text-color": "#3d3d3d",
-                "text-color": "#3d3d3d"
-            },
-            "Tags": {
-                "bold": false,
-                "selected-text-color": "#707070",
-                "text-color": "#707070",
-                "underline": true
-            },
-            "Word": {
-                "bold": false,
-                "selected-text-color": "#3d3d3d",
-                "text-color": "#3d3d3d"
-            }
-        },
         "HTML": {
             "Attribute": {
                 "selected-text-color": "#174ad4",
                 "text-color": "#174ad4"
             },
             "Doctype": {
-                "selected-text-color": "#1f2124",
-                "text-color": "#1f2124"
-            },
-            "Element": {
                 "selected-text-color": "#1f2124",
                 "text-color": "#1f2124"
             },
