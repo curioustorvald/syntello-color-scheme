@@ -114,6 +114,16 @@ Exceeds accessibility standards without sacrificing sophistication
 3. Copy and paste the downloaded file into the *User* directory
 4. Preference → Color Scheme... → Select **Syntello v1** from the drop-down menu
 
+### Visual Studio Code
+
+1. Download **syntello-color-scheme-1.0.0.vsix**
+2. Manage → Command Palette... → search for 'vsix' → Click **Extensions: Install from VSIX...**
+3. Select and import the downloaded file
+4. The colour theme should be applied automatically. If not, Manage → Themes → Color Theme → Select **Syntello v1**
+
+*Note for VS Code Desktop: the colour may look washed out compared to other Syntello implementations. This is a known bug of the VS Code.
+
+
 ### Porting to other editors?
 
 Use the complete colour palette above. The mathematical relationships between colours are preserved across any implementation.
