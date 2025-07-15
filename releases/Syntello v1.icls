@@ -140,7 +140,8 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="944000" />
+        <option name="FOREGROUND" value="B14D00" />
+          <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">

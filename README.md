@@ -25,7 +25,7 @@ Keywords:       #00627A  rgb(0, 98, 122)    — Ocean depth (bold text)
 Functions:      #00559B  rgb(0, 85, 155)    — Royal azure
 Operators:      #00559B  rgb(0, 85, 155)    — Same as functions
 Strings:        #BF0303  rgb(191, 3, 3)     — Ruby red
-Numbers:        #944000  rgb(148, 64, 0)    — Autumn amber
+Numbers:        #B14D00  rgb(177, 77, 0)    — Autumn amber
 Variables:      #871094  rgb(135, 16, 148)  — Royal purple
 Comments:       #707070  rgb(112, 112, 112) — Balanced grey
 Selection:      #A6D2FF  rgb(166, 210, 255) — Sky wash
@@ -38,7 +38,7 @@ Current Line:   #EEF4FC  rgb(238, 244, 252) — Whisper blue
 
 **Royal purple constants (#871094)** — Purple has the shortest wavelength visible to humans, making it naturally distinct from other syntax elements. Syntello's purple sits at 295° on the colour wheel—not too pink or too blue, with 89% saturation. It's regal without being garish, distinctive without being distracting.
 
-**Autumn amber numbers (#944000)** — Why not pure orange? Because #FF8800 vibrates against white backgrounds, causing chromatic aberration. Our burnt amber maintains the "warning" semantic of orange (important for spotting number typos) while adding earthy stability. The 100% saturation at 35% lightness creates what photographers call "golden hour" warmth—visible but never harsh.
+**Autumn amber numbers (#B14D00)** — Why not pure orange? Because #FF8800 vibrates against white backgrounds, causing chromatic aberration. Our burnt amber maintains the "warning" semantic of orange (important for spotting number typos) while adding earthy stability. The 100% saturation at 35% lightness creates what photographers call "golden hour" warmth—visible but never harsh.
 
 **Balanced gray comments (#707070)** — The most debated colour. Too dark, and comments distract. Too light, and they are unreadable. #707070 hits the mathematical sweet spot: exactly 44% lightness, creating 4.86:1 contrast—just above WCAG AA requirements. But here's the subtle genius: this gray has zero colour cast. No blue (cold), no brown (muddy), no green (sickly)—pure neutral gray that your brain naturally de-prioritises.
 

@@ -3,8 +3,9 @@
         "CSS": {
             "Color": {
                 "italic": false,
-                "selected-text-color": "#944000",
-                "text-color": "#944000"
+                "bold": true,
+                "selected-text-color": "#B14D00",
+                "text-color": "#B14D00"
             },
             "Named Color": {
                 "selected-text-color": "#00627a",
@@ -236,8 +237,9 @@
             "text-color": "#174ad4"
         },
         "BaseN": {
-            "selected-text-color": "#944000",
-            "text-color": "#944000"
+            "bold": true,
+            "selected-text-color": "#B14D00",
+            "text-color": "#B14D00"
         },
         "BuiltIn": {
             "selected-text-color": "#0033b3",
@@ -273,8 +275,9 @@
             "text-color": "#00627a"
         },
         "DecVal": {
-            "selected-text-color": "#944000",
-            "text-color": "#944000"
+            "bold": true,
+            "selected-text-color": "#B14D00",
+            "text-color": "#B14D00"
         },
         "Documentation": {
             "italic": true,
@@ -291,8 +294,9 @@
             "text-color": "#0033b3"
         },
         "Float": {
-            "selected-text-color": "#944000",
-            "text-color": "#944000"
+            "bold": true,
+            "selected-text-color": "#B14D00",
+            "text-color": "#B14D00"
         },
         "Function": {
             "selected-text-color": "#00559b",
@@ -304,8 +308,8 @@
             "text-color": "#00627a"
         },
         "Information": {
-            "selected-text-color": "#944000",
-            "text-color": "#944000"
+            "selected-text-color": "#B14D00",
+            "text-color": "#B14D00"
         },
         "Keyword": {
             "bold": true,
