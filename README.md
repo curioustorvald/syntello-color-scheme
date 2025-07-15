@@ -105,7 +105,14 @@ Exceeds accessibility standards without sacrificing sophistication
 1. Download **Syntello.v1.theme**
 2. Settings → Configure Kate → Color Themes → *Theme Editor* tab → Import...
 3. Select and import the downloaded file
-4. Go back to *Default Theme* tab -> Select **Syntello v1** from the Select theme drop-down menu
+4. Go back to *Default Theme* tab → Select **Syntello v1** from the Select theme drop-down menu
+
+### Sublime Text
+
+1. Download **Syntello.v1.sublime-color-scheme**
+2. Preference → Browse Packages...
+3. Copy and paste the downloaded file into the *User* directory
+4. Preference → Color Scheme... → Select **Syntello v1** from the drop-down menu
 
 ### Porting to other editors?
 
