@@ -25,7 +25,7 @@ Keywords:       #00627A  rgb(0, 98, 122)    — Ocean depth (bold text)
 Functions:      #00559B  rgb(0, 85, 155)    — Royal azure
 Operators:      #00559B  rgb(0, 85, 155)    — Same as functions
 Strings:        #BF0303  rgb(191, 3, 3)     — Ruby red
-Numbers:        #B14D00  rgb(177, 77, 0)    — Autumn amber
+Numbers:        #B14D00  rgb(177, 77, 0)    — Autumn amber (bold text)
 Variables:      #871094  rgb(135, 16, 148)  — Royal purple
 Comments:       #707070  rgb(112, 112, 112) — Balanced grey
 Selection:      #A6D2FF  rgb(166, 210, 255) — Sky wash
@@ -95,14 +95,14 @@ Exceeds accessibility standards without sacrificing sophistication
 
 ### IntelliJ IDEA / WebStorm / PyCharm / Android Studio
 
-1. Download **Syntello v1.icls**
+1. Download **Syntello.v1.icls**
 2. File → Settings → Color Scheme → Cogwheel icon next to the drop-down menu → Import Scheme → IntelliJ IDEA color scheme (.icls)
 3. Select the downloaded file
 4. Restart IDE and enjoy
 
 ### Kate / KWrite
 
-1. Download **Syntello v1.theme**
+1. Download **Syntello.v1.theme**
 2. Settings → Configure Kate → Color Themes → *Theme Editor* tab → Import...
 3. Select and import the downloaded file
 4. Go back to *Default Theme* tab -> Select **Syntello v1** from the Select theme drop-down menu
