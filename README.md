@@ -53,6 +53,14 @@ Regular:    immutable variables, everything else
 
 **Rich charcoal text (#1F2124)** — Again, not black. Pure #000000 creates excessive contrast on light backgrounds, causing "halation"—the visual echo that makes text appear to vibrate. Our charcoal has a microscopic blue tint that performs double duty: it reduces contrast just enough to eliminate halation while paradoxically making the text appear darker than neutral gray. It's an optical illusion that works in your favour. Result: text that feels bold and decisive without the harshness of true black.
 
+## The Story Behind Syntello
+
+Curious about why another light theme needed to exist? I've written about the months-long journey of research, discovery, and iteration that led to Syntello.
+
+**[Read: "Why I Built Yet Another Light Theme (And Why This One's Different)"](https://curioustorvald.com/techtales/?a=cg_202507191512_syntello)**
+
+Spoiler: It involves 2 AM research binges, the colour red becoming my unlikely hero, and discovering that monitor manufacturers have been lying to us about white.
+
 ## Light themes: The research speaks
 
 ### The pupil science nobody talks about
