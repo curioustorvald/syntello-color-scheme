@@ -14,11 +14,12 @@ Syntello proves that optimal readability doesn't mean sacrificing beauty. We've 
 
 No harsh primaries. No jarring combinations. Just thoughtfully selected hues that work in harmony with your visual system.
 
-## The Syntello palette
+## The Syntello palette and typography rules
 
-Complete colour specifications for implementing in any editor:
+Complete colour and typography specifications for implementing in any editor:
 
 ```
+## COLOUR PALETTE
 Background:     #FDFDFD  rgb(253, 253, 253) — Soft paper white
 Primary Text:   #1F2124  rgb(31, 33, 36)    — Rich charcoal
 Keywords:       #00627A  rgb(0, 98, 122)    — Ocean depth (bold text)
@@ -26,10 +27,16 @@ Functions:      #00559B  rgb(0, 85, 155)    — Royal azure
 Operators:      #00559B  rgb(0, 85, 155)    — Same as functions
 Strings:        #BF0303  rgb(191, 3, 3)     — Ruby red
 Numbers:        #B14D00  rgb(177, 77, 0)    — Autumn amber (bold text)
-Variables:      #871094  rgb(135, 16, 148)  — Royal purple
+Variables:      #871094  rgb(135, 16, 148)  — Royal purple (local variables use Rich charcoal)
 Comments:       #707070  rgb(112, 112, 112) — Balanced grey
 Selection:      #A6D2FF  rgb(166, 210, 255) — Sky wash
 Current Line:   #EEF4FC  rgb(238, 244, 252) — Whisper blue
+
+## TYPOGRAPHY RULES
+Bold:       keywords, numbers, inline function brackets, new class instantiation
+Italic:     constants, comments
+Underline:  mutable variables
+Regular:    immutable variables, everything else
 ```
 
 **Ocean-depth keywords (#00627A)** — This isn't arbitrary blue. The Helmholtz-Kohlrausch effect makes saturated blue-greens appear brighter than their measured luminance¹, creating natural emphasis without increasing actual brightness. But why this specific shade? At 190° hue, it sits perfectly between pure cyan (too electric) and navy (too muted). The 100% saturation at 35% lightness creates what designers call "active calm"—commanding attention while remaining professional. And here's the crucial detail: keywords are always bold in Syntello, which means they meet WCAG AAA standards for large text (4.5:1 required, 6.81:1 achieved). This is not a compromise—bold keywords are easier to scan, and the added weight lets us use this perfect ocean depth without sacrificing accessibility.
